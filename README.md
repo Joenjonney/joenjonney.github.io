@@ -1,1 +1,1 @@
-# joenjonney.github.io
+React 기초에 기반하여 제작한 만든 웹사이트 입니다.
